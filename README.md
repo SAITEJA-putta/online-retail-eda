@@ -56,6 +56,5 @@ Performed:
 ##  Author
 
 Developed by **Sai Teja Putta**  
-📧 saitejaputta423@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/saiteja-putta-90b348219)
+
 
